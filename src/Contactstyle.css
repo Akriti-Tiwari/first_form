@@ -1,0 +1,11 @@
+.Contactstyle{
+	width: 100%; height: 480px;
+	background: lightpink;
+	color: white;
+	display: flex;
+	justify-content: center;
+
+}
+h1.Contactstyle{
+	text-align: left;
+}
